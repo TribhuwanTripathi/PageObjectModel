@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-23T15:15:10 IST" name="Default suite" finished-at="2024-10-23T15:15:25 IST" duration-ms="14841">
+  <suite started-at="2024-10-25T16:43:06 IST" name="Default suite" finished-at="2024-10-25T16:43:22 IST" duration-ms="16640">
     <groups>
     </groups>
-    <test started-at="2024-10-23T15:15:10 IST" name="Default test" finished-at="2024-10-23T15:15:25 IST" duration-ms="14841">
-      <class name="com.testcase.Login">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.testcase.Login@a1153bc]" started-at="2024-10-23T15:15:10 IST" name="setup" finished-at="2024-10-23T15:15:14 IST" duration-ms="3280" status="PASS">
+    <test started-at="2024-10-25T16:43:06 IST" name="Default test" finished-at="2024-10-25T16:43:22 IST" duration-ms="16640">
+      <class name="com.testcase.signup">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testcase.signup@a1153bc]" started-at="2024-10-25T16:43:06 IST" name="setup" finished-at="2024-10-25T16:43:10 IST" duration-ms="4464" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginapp()[pri:0, instance:com.testcase.Login@a1153bc]" started-at="2024-10-23T15:15:14 IST" name="loginapp" finished-at="2024-10-23T15:15:25 IST" duration-ms="11382" status="PASS">
+        <test-method signature="signupapp()[pri:0, instance:com.testcase.signup@a1153bc]" started-at="2024-10-25T16:43:10 IST" name="signupapp" finished-at="2024-10-25T16:43:22 IST" duration-ms="11694" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginapp -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testcase.Login@a1153bc]" started-at="2024-10-23T15:15:25 IST" name="teardown" finished-at="2024-10-23T15:15:25 IST" duration-ms="139" status="PASS">
+        </test-method> <!-- signupapp -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testcase.signup@a1153bc]" started-at="2024-10-25T16:43:22 IST" name="teardown" finished-at="2024-10-25T16:43:22 IST" duration-ms="422" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- com.testcase.Login -->
+      </class> <!-- com.testcase.signup -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -14,7 +14,7 @@ public class signup extends Baseclass1 {
 		
 		
 		Signuppage signuppage=PageFactory.initElements(driver, Signuppage.class);
-		signuppage.signintoDemo("Sachin141", "12345");
+		signuppage.signintoDemo("Sachin1221", "12345");
 	}
 	
 	
